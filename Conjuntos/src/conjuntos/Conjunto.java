@@ -5,8 +5,8 @@ import java.util.*;
 
 
 public class Conjunto implements interfaz {
-    private Object[] datos;     // Almacenamiento para el conjunto
-    private int nElems;         // Cantidad de datos almacenados
+    private Object[] datos;     
+    private int nElems;         
 
     
     public Conjunto() {
